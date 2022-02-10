@@ -1,5 +1,4 @@
 #!/usr/env python3
-from __future__ import print_function
 from argparse import ArgumentParser
 from ctypes import BigEndianStructure,c_uint16
 from enum import Enum
